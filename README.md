@@ -8,4 +8,4 @@
 
 ## Déploiement
 
-* Lien vers le site déployé sur Netlify : 
+https://thirsty-wilson-78dd78.netlify.app/
